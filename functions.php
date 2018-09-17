@@ -63,4 +63,4 @@ require_once ('process_ajax_request.php');
 require_once (get_theme_file_path().'/init/custom_post_type_real_estate.php');
 //require_once (get_theme_file_path().'/init/custom_real_estate_city_taxonomy.php');
 require_once (get_theme_file_path().'/init/custom_post_type_city.php');
-
+require_once (get_theme_file_path().'/init/widget-city_list.php');

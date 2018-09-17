@@ -25,3 +25,4 @@ table.real_estate_front_data { width: auto; }
 .city_content {display: block; margin: 20px 0;}
 #error_msg_text, #success_msg_text {display: inline-block; height: 38px; padding: 7px;}
 #success_msg_box, #error_msg_box { display: none; }
+.widget_city_list {list-style-type: none; padding-left: 3px;}
