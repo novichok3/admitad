@@ -1,0 +1,27 @@
+/*
+ Theme Name:   UnderStrap Child
+ Theme URI:    https://www.understrap.com
+ Description:  UnderStrap Child Theme
+ Author:       Holger Koenemann
+ Author URI:   http://www.holgerkoenemann.de
+ Template:     understrap
+ Version:      0.5.3
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  understrap-child
+ Tags: one-column, custom-menu, featured-images, theme-options, translation-ready
+ GitHub Theme URI: holger1411/understrap-child
+*/
+
+* {font-family: 'PT Sans';}
+
+.real_estate_front_data th { text-align: right !important;}
+table.real_estate_front_data { width: auto; }
+.real_estate .row {margin-bottom: 20px;}
+.real_estate h2 {font-size: 1.5rem;}
+#add_real_estate_form {padding: 15px; background: #eee; margin-bottom: 20px;}
+.real_eastate_more_link {display: block; margin-top:10px; text-decoration: underline;}
+.real_estate_count {display: block; margin: 20px 0;}
+.city_content {display: block; margin: 20px 0;}
+#error_msg_text, #success_msg_text {display: inline-block; height: 38px; padding: 7px;}
+#success_msg_box, #error_msg_box { display: none; }

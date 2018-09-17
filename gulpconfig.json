@@ -1,0 +1,72 @@
+{
+  "browserSyncOptions" : {
+    "proxy": "localhost/admitad/",{
+  "browserSyncOptions" : {
+    "proxy": "localhost/admitad/",
+    "notify": false
+  },
+  "browserSyncWatchFiles" : [
+    "./css/*.min.css",
+    "./js/*.min.js",
+    "./**/*.php"
+  ],
+  "paths" : {{
+  "browserSyncOptions" : {
+    "proxy": "localhost/admitad/",
+    "notify": false
+  },
+  "browserSyncWatchFiles" : [
+    "./css/*.min.css",
+    "./js/*.min.js",
+    "./**/*.php"
+  ],
+  "paths" : {
+    "js": "./js",
+    "css": "./css",
+    "img": "./img",
+		"imgsrc": "./src/img",
+    "sass": "./sass",
+    "node": "./node_modules/",
+    "bower": "./bower_components/",
+    "dev": "./src",
+    "dist": "./dist",
+    "distprod": "./dist-product",
+    "vendor": ""
+  }
+}
+
+    "js": "./js",
+    "css": "./css",
+    "img": "./img",
+		"imgsrc": "./src/img",
+    "sass": "./sass",
+    "node": "./node_modules/",
+    "bower": "./bower_components/",
+    "dev": "./src",
+    "dist": "./dist",
+    "distprod": "./dist-product",
+    "vendor": ""
+  }
+}
+
+    "notify": false
+  },
+  "browserSyncWatchFiles" : [
+    "./css/*.min.css",
+    "./js/*.min.js",
+    "./**/*.php"
+  ],
+  "paths" : {
+    "js": "./js",
+    "css": "./css",
+    "img": "./img",
+		"imgsrc": "./src/img",
+    "sass": "./sass",
+    "node": "./node_modules/",
+    "bower": "./bower_components/",
+    "dev": "./src",
+    "dist": "./dist",
+    "distprod": "./dist-product",
+    "vendor": ""
+  }
+}
