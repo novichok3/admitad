@@ -25,9 +25,9 @@
 
             if (is_numeric($city_id)) {
                 $city_post_obj = get_post($city_id);
-                if (is_a($city_post_obj, 'WP_Post')) {
-                    echo $city_post_obj->post_title;
-                }
+                if (is_a($city_post_obj, 'WP_Post')) { ?>
+                    <a href="<?php echo $city_post_obj->guid ?>" title="<?php echo $city_post_obj->post_title ?>"><?php echo $city_post_obj->post_title ?></a>
+                <?php }
             }
             ?>
         </td>
